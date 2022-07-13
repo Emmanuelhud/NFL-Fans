@@ -1,6 +1,6 @@
 # NFL-Fans
 
-## Assignment: Advanced Front-End Web Development
+### Assignment: Advanced Front-End Web Development
 
 Programming anguages and tools: HTML 5, CSS, JavaScript.
 
