@@ -14,3 +14,7 @@ The purpose of the application developed is to present he NFL in a format for in
 ### How to use:
 Navigate the application.
 Please note that the application may not function as desired due to issues with the API being used.
+
+<button>
+<a href="https://emmanuelhud.github.io/NFL-Fans/index.html">View my work</a>
+</button>
